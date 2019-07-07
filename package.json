@@ -1,0 +1,28 @@
+{
+  "name": "sida-iau",
+  "version": "1.0.0",
+  "description": "This is my university website scrapper, you can connect to it's educational system of course by your username & password, please help me to improve it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armin Kardan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ArminKardan/sida-iau.git"
+  },
+  "keywords": [
+    "sida",
+    "iau",
+    "islamic",
+    "azad",
+    "university",
+    "armin",
+    "kardan"
+  ]
+}
